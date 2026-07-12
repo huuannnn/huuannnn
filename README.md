@@ -59,7 +59,7 @@ I focus on developing lightweight and effective neural architectures that can ca
 <img src="https://img.shields.io/badge/Traffic%20Forecasting-111827?style=for-the-badge&logo=googlemaps&logoColor=34A853" alt="Traffic Forecasting" />
 <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-111827?style=for-the-badge&logo=apacheecharts&logoColor=AA344D" alt="Time Series Forecasting" />
 
-<br/><br/>
+<br/>
 
 <sub>Graph structures · Temporal dynamics · Intelligent transportation</sub>
 
@@ -73,26 +73,20 @@ I focus on developing lightweight and effective neural architectures that can ca
 
 <div align="center">
 
-### Languages
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+<img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Lightning-111827?style=for-the-badge&logo=lightning&logoColor=792EE5" alt="PyTorch Lightning" />
+<img src="https://img.shields.io/badge/Torch%20Geometric-111827?style=for-the-badge&logo=pytorch&logoColor=3C2179" alt="Torch Geometric" />
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python\&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
+<br/>
 
-### Deep Learning & Research
-
-![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge\&logo=pytorch\&logoColor=EE4C2C)
-![PyTorch Lightning](https://img.shields.io/badge/Lightning-111827?style=for-the-badge\&logo=lightning\&logoColor=792EE5)
-![Torch Geometric](https://img.shields.io/badge/Torch%20Geometric-111827?style=for-the-badge\&logo=pytorch\&logoColor=3C2179)
-![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge\&logo=numpy\&logoColor=4D77CF)
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge\&logo=pandas\&logoColor=E70488)
-![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge\&logo=jupyter\&logoColor=F37626)
-
-### Engineering
-
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge\&logo=fastapi\&logoColor=009688)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-111827?style=for-the-badge\&logo=latex\&logoColor=008080)
+<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4D77CF" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas" />
+<img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/LaTeX-111827?style=for-the-badge&logo=latex&logoColor=008080" alt="LaTeX" />
 
 </div>
 
@@ -119,13 +113,13 @@ I am open to research discussions and collaborations in:
   <img src="https://img.shields.io/badge/Start%20a%20Conversation-nguyenhuuan.it%40gmail.com-BE123C?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Nguyen Huu An" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://scholar.google.com/citations?user=36V1BG4AAAAJ">Google Scholar</a>
  •  <a href="https://orcid.org/0009-0009-3001-6912">ORCID</a>
  •  <a href="https://www.webofscience.com/wos/author/record/LOR-1782-2024">Web of Science</a>
 
-<br/><br/>
+<br/>
 
 <i>“Connecting data, structure, and time — one graph at a time.”</i>
 
