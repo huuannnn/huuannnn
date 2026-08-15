@@ -22,6 +22,9 @@
 <a href="https://orcid.org/0009-0009-3001-6912">
   <img src="https://img.shields.io/badge/ORCID-0009--0009--3001--6912-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
 </a>
+<a href="https://aisq.dev/members/annh">
+  <img src="https://aisq.dev/badges/initiator-2026.svg" alt="AIAI Initiator 2026" />
+</a>
 
 <br/><br/>
 
