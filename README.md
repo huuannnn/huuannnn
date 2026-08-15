@@ -123,6 +123,7 @@ I am open to research discussions and collaborations in:
 
 <i>“Connecting data, structure, and time — one graph at a time.”</i>
 <br/>
+<br/>
 <a href="https://aisq.dev/members/annh">
   <img src="https://aisq.dev/badges/initiator-2026.svg" alt="AIAI Initiator 2026" />
 </a>
