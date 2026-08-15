@@ -122,11 +122,10 @@ I am open to research discussions and collaborations in:
 <br/>
 
 <i>“Connecting data, structure, and time — one graph at a time.”</i>
+<br/>
 <a href="https://aisq.dev/members/annh">
   <img src="https://aisq.dev/badges/initiator-2026.svg" alt="AIAI Initiator 2026" />
 </a>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C0519,50:BE123C,100:7F1D1D&height=120&section=footer" alt="Footer" />
 
